@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "Buffer": "0.0.0",
+    "buffer": "^6.0.3",
+    "js-base64": "^3.7.2",
+    "nodemon": "^2.0.15",
     "puppeteer": "^10.2.0"
   }
 }
